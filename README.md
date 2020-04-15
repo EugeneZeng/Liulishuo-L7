@@ -3,7 +3,7 @@ Liulishuo L7 articles, for the purpose of **personal usage**.
 
 ## Level7 Unit1 
 ### [Part1 : On Procrastination](L7-U1-P1-On-Procrastination.md 'Part1 : On Procrastination')
-### Part2 : How Leaders Inspire Us
+### [Part2 : How Leaders Inspire Us](L7-U1-P2-How-Leaders-Inspire-Us.md 'Part2 : How Leaders Inspire Us')
 ### Part3 : On Endurance
 
 ## Level7 Unit2
