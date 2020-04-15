@@ -7,7 +7,7 @@ Liulishuo L7 articles, for the purpose of **personal usage**.
 ### Part3 : On Endurance
 
 ## Level7 Unit2
-### Part1 : Never, Ever Give Up
+### [Part1 : Never, Ever Give Up](L7-U2-P1-Never-Ever-Give-Up.md 'Part1 : Never, Ever Give Up')
 ### Part2 : The Boiling River
 ### Part3 : On Machine Intelligence
 
