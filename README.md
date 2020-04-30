@@ -9,7 +9,7 @@ Liulishuo L7 articles, for the purpose of **personal usage**.
 ## Level7 Unit2
 ### [Part1 : Never, Ever Give Up](L7-U2-P1-Never-Ever-Give-Up.md 'Part1 : Never, Ever Give Up')
 ### [Part2 : The Boiling River](L7-U2-P2-The-Boiling-River.md 'Part2 : The Boiling River')
-### Part3 : On Machine Intelligence
+### [Part3 : On Machine Intelligence](L7-U2-P3-On-Machine-Intelligence.md 'Part3 : On Machine Intelligence]')
 
 ## Level7 Unit3 
 ### Part1 : Being a Global Citizen
