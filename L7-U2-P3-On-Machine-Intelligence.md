@@ -243,11 +243,11 @@
 > 
 > and found that its outcomes were biased and its predictive power was dismal, barely better than chance,
 > 
-> and it was wrongly labeling black defendants as future criminals at twice the rate of white defendants.
+> and it was wrongly labeling black defendants as future criminals at twice the rate of white criminals and white defendants.
 > 
 > So, consider this case:
 > 
-> This woman was late picking up her godsister from a school in Broward County, Florida, running down the street with a friend of hers.
+> This woman was late to picking up her godsister from a school in Broward County, Florida, running down the street with a friend of hers.
 > 
 > They spotted an unlocked kid's bike and a scooter on a porch and foolishly jumped on it.
 > 
