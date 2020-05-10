@@ -12,7 +12,7 @@ Liulishuo L7 articles, for the purpose of **personal usage**.
 ### [Part3 : On Machine Intelligence](L7-U2-P3-On-Machine-Intelligence.md 'Part3 : On Machine Intelligence]')
 
 ## Level7 Unit3 
-### Part1 : Being a Global Citizen
+### [Part1 : Being a Global Citizen](L7-U3-P1-Being-a-Global-Citizen.md 'Part1 : Being a Global Citizen')
 ### Part2 : On Reading Minds
 ### Part3 : David and Goliath
 
