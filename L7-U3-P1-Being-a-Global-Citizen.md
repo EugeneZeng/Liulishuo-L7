@@ -1,6 +1,6 @@
 ## Being a Global Citizen
 
-### 3
+### 1
 > I want to introduce you to an amazing woman.
 > 
 > Her name is Davinia.
