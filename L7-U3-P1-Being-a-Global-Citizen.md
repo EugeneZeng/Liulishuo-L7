@@ -257,9 +257,9 @@
 > 
 > And here's Dr. Raj Shah, the head of USAID, making that announcement.
 > 
-> See, when thousands of global citizens findinspirationfrom each other, it's amazing to see theircollectivepower.
+> See, when thousands of global citizens find inspiration from each other, it's amazing to see their collective power.
 > 
-> Global citizens like Davinia helpedpersuadethe World Bank toboosttheir investment into water andsanitation.
+> Global citizens like Davinia helped persuade the World Bank to boost their investment into water and sanitation.
 > 
 > Here's the Bank's president Jim Kim announcing 15 billion dollars onstage at Global Citizen,
 > 
