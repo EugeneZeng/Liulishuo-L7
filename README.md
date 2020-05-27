@@ -14,6 +14,6 @@ Liulishuo L7 articles, for the purpose of **personal usage**.
 ## Level7 Unit3 
 ### [Part1 : Being a Global Citizen](L7-U3-P1-Being-a-Global-Citizen.md 'Part1 : Being a Global Citizen')
 ### [Part2 : On Reading Minds](L7-U3-P2-On-Reading-Minds.md 'Part2 : On Reading Minds')
-### Part3 : David and Goliath
+### [Part3 : David and Goliath](L7-U3-P3-David-and-Goliath.md 'Part3 : David and Goliath')
 
 The content of above links are copied from [懂你英语笔记目录](https://www.jianshu.com/p/deb8002bbba6 "懂你英语笔记目录").
