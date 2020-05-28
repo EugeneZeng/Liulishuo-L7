@@ -52,7 +52,7 @@
 > 
 > Neither can attack the other, because to attack the other side you've got to come down the mountain into the valley and then up the other side, and you're completely exposed.
 
-### 3
+### 2
 > So finally, to break the deadlock, the Philistines send their mightiest warrior down into the valley floor,
 > 
 > and he calls out and he says to the Israelites,
