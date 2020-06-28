@@ -19,5 +19,6 @@ Liulishuo L7 articles, for the purpose of **personal usage**.
 ## Level8 Unit1
 ### [Part1 : The Math of Love](L8-U1-P1-The-Math-of-Love.md 'Part1 : The Math of Love')
 ### [Part2 : On Controlling AI](L8-U1-P2-On-Controlling-AI.md 'Part2: On Controlling AI')
+### [Part3 : On Sports Technology](L8-U1-P3-On-Sports-Technology.md 'Part3 : On Sports Technology')
 
 The content of above links are copied from [懂你英语笔记目录](https://www.jianshu.com/p/deb8002bbba6 "懂你英语笔记目录").
