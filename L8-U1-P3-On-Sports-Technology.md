@@ -161,7 +161,7 @@
 > 
 > gave millions, or in some cases billions, of people a ticket to consume elite sports performance.
 > 
-> The financial incentives and fame and glory afforded elite athletes skyrocketed, and it tipped toward the tiny upper echelon of performance.
+> The financial ***incentives*** and fame and glory afforded elite athletes ***skyrocketed***, and it ***tipped*** toward the tiny upper ***echelon*** of performance.
 > 
 > It accelerated the artificial selection for specialized bodies.
 > 
@@ -175,11 +175,11 @@
 
 > In sports where height is prized, like basketball, the tall athletes got taller.
 > 
-> In 1983, the National Basketball Association signed a groundbreaking agreement making players partners in the league,
+> In 1983, the National Basketball Association signed a groundbreaking agreement making players partners in the ***league***,
 > 
 > entitled to shares of ticket revenues and television contracts.
 > 
-> Suddenly, anybody who could be an NBA player wanted to be, and teams started scouring the globe for the bodies that could help them win championships.
+> Suddenly, anybody who could be an NBA player wanted to be, and teams started ***scouring*** the globe for the bodies that could help them win championships.
 > 
 > Almost overnight, the proportion of men in the NBA who are at least seven feet tall doubled to 10 percent.
 > 
@@ -243,13 +243,13 @@
 > 
 > And they happen, on average, to have a certain unique physiology: legs that are very long and very thin at their extremity,
 > 
-> and this is because they have their ancestry at very low latitude in a very hot and dry climate,
+> and this is because they have their ***ancestry*** at very low latitude in a very hot and dry climate,
 > 
 > and an evolutionary adaptation to that is limbs that are very long and very thin at the extremity for cooling purposes.
 > 
 > It's the same reason that a radiator has long coils, to increase surface area compared to volume to let heat out,
 > 
-> and because the leg is like a pendulum, the longer and thinner it is at the extremity, the more energy-efficient it is to swing.
+> and because the leg is like a ***pendulum***, the longer and thinner it is at the extremity, the more energy-efficient it is to swing.
 > 
 > To put Kalenjin running success in perspective, consider that 17 American men in history have run faster than two hours and 10 minutes in the marathon.
 > 
@@ -257,7 +257,7 @@
 > 
 > Thirty-two Kalenjin men did that last October. (Laughter)
 > 
-> That's from a source population the size of metropolitan Atlanta.
+> That's from a source population the size of ***metropolitan*** Atlanta.
 
 > Still, even changing technology and the changing gene pool in sports don't account for all of the changes in performance.
 > 
@@ -275,25 +275,25 @@
 > 
 > But normally we can't access nearly all of it.
 > 
-> Our brain acts as a limiter, preventing us from accessing all of our physical resources, because we might hurt ourselves, tearing tendons or ligaments.
+> Our brain acts as a limiter, preventing us from accessing all of our physical resources, because we might hurt ourselves, tearing ***tendons*** or ***ligaments***.
 > 
 > But the more we learn about how that limiter functions, the more we learn how we can push it back just a bit,
 > 
-> in some cases by convincing the brain that the body won't be in mortal danger by pushing harder.
+> in some cases by convincing the brain that the body won't be in ***mortal*** danger by pushing harder.
 > 
-> Endurance and ultra-endurance sports serve as a great example.
+> ***Endurance*** and ultra-endurance sports serve as a great example.
 > 
 > Ultra-endurance was once thought to be harmful to human health, but now we realize that we have all these traits that are perfect for ultra-endurance:
 > 
-> no body fur and a glut of sweat glands that keep us cool while running;
+> no body fur and a ***glut*** of sweat glands that keep us cool while running;
 > 
 > narrow waists and long legs compared to our frames; large surface area of joints for shock absorption.
 > 
-> We have an arch in our foot that acts like a spring, short toes that are better for pushing off than for grasping tree limbs,
+> We have an ***arch*** in our foot that acts like a spring, short toes that are better for pushing off than for ***grasping*** tree limbs,
 > 
 > and when we run,we can turn our torso and our shoulders like this while keeping our heads straight.
 > 
-> Our primate cousins can't do that. They have to run like this.
+> Our ***primate*** cousins can't do that. They have to run like this.
 > 
 > And we have big old butt muscles that keep us upright while running.
 > 
@@ -301,7 +301,7 @@
 > 
 > They have no buns because they don't run upright.
 > 
-> And as athletes have realized that we're perfectly suited for ultra-endurance, they've taken on feats that would have been unthinkable before,
+> And as athletes have realized that we're perfectly suited for ultra-endurance, they've taken on ***feats*** that would have been unthinkable before,
 > 
 > athletes like Spanish endurance racer Kílian Jornet.
 > 
@@ -319,10 +319,10 @@
 > 
 > Changing technology, changing genes, and a changing mindset.
 > 
-> Innovation in sports, whether that's new track surfaces or new swimming techniques, the democratization of sport,
+> Innovation in sports, whether that's new track surfaces or new swimming techniques, the ***democratization*** of sport,
 > 
 > the spread to new bodies and to new populations around the world, and imagination in sport, an understanding of what the human body is truly capable of,
 > 
-> have conspired to make athletes stronger, faster, bolder, and better than ever.
+> have ***conspired*** to make athletes stronger, faster, bolder, and better than ever.
 > 
 > Thank you very much.
