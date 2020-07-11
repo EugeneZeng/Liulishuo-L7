@@ -21,4 +21,7 @@ Liulishuo L7 articles, for the purpose of **personal usage**.
 ### [Part2 : On Controlling AI](L8-U1-P2-On-Controlling-AI.md 'Part2: On Controlling AI')
 ### [Part3 : On Sports Technology](L8-U1-P3-On-Sports-Technology.md 'Part3 : On Sports Technology')
 
+## Level 8 Unit2
+### [Part1 : A South Pole Expedition](L8-U2-P1-A-South-Pole-Expedition.md 'Part1 : A South Pole Expedition')
+
 The content of above links are copied from [懂你英语笔记目录](https://www.jianshu.com/p/deb8002bbba6 "懂你英语笔记目录").
