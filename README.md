@@ -24,5 +24,6 @@ Liulishuo L7 articles, for the purpose of **personal usage**.
 ## Level 8 Unit2
 ### [Part1 : A South Pole Expedition](L8-U2-P1-A-South-Pole-Expedition.md 'Part1 : A South Pole Expedition')
 ### [Part2 : Experience vs Memory](L8-U2-P2-Experience-vs-Memory.md 'Part2 : Experience vs Memory')
+### [Part3 : Gospel of Doubt](L8-U2-P3-Gospel-of-Doubt.md 'Gospel of Doubt')
 
 The content of above links are copied from [懂你英语笔记目录](https://www.jianshu.com/p/deb8002bbba6 "懂你英语笔记目录").
