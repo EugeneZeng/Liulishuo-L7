@@ -29,5 +29,6 @@ Liulishuo L7 articles, for the purpose of **personal usage**.
 ## Level 8 Unit3
 ### [Part1 : Evolving Our Bodies](L8-U3-P1-Evolving-Our-Bodies.md 'Part1 : Evolving Our Bodies')
 ### [Part2 : Healing Architecture](L8-U3-P2-Healing-Architecture.md 'Part2 : Healing Architecture')
+### [Part3 : The history of our world](L8-U3-P3-The-history-of-our-world 'Part3 : The history of our world')
 
 The content of above links are copied from [懂你英语笔记目录](https://www.jianshu.com/p/deb8002bbba6 "懂你英语笔记目录").
