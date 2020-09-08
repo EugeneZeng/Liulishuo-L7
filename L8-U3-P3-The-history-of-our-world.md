@@ -149,7 +149,7 @@
 > 
 > the temperature begins to rise at the center of each cloud, 
 > 
-> and then, at the center, the temperature crosses the threshold temperature of 10 million degrees, 
+> and then, at the center of each cloud, the temperature crosses the threshold temperature of 10 million degrees, 
 > 
 > protons start to fuse, there's a huge release of energy, and -- bam! We have our first stars. 
 > 
@@ -301,7 +301,7 @@
 > 
 > We are blessed with a language, a system of communication, so powerful and so precise 
 > 
-> that we can share what we've learned with such precisionthat it can accumulate in the collective memory. 
+> that we can share what we've learned with such precision that it can accumulate in the collective memory. 
 > 
 > And that means it can outlast the individuals who learned that information, and it can accumulate from generation to generation. 
 > 
